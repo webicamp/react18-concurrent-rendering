@@ -1,0 +1,27 @@
+.container {
+  width: 100vw;
+  max-width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column;
+  overflow-x: hidden;
+  padding: 10px;
+}
+
+.sliderContainer {
+  margin-bottom: 20px;
+}
+
+.boxesContainer {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 100vw;
+  overflow-x: hidden;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
