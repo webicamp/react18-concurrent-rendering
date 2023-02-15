@@ -6,11 +6,10 @@
   align-items: center;
   flex-flow: column;
   overflow-x: hidden;
-  padding: 10px;
 }
 
 .sliderContainer {
-  margin-bottom: 20px;
+  margin: 20px 0px 20px 0px;
 }
 
 .boxesContainer {
